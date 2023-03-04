@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently training at **Gaza Sky Geeks**
 
-- 🌱 I’m currently learning **ReactJS framework**
+- 🌱 I’m currently learning **ReactJS and React Native**
 
 - 👨‍💻 All of my projects are available at my GitHub accout [https://github.com/Yazan-Habash114](https://github.com/Yazan-Habash114)
 
