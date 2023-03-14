@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 
 <h1 align="center">Hi there 👋, I am Yazan Habash</h1>
+<img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
 <h3 align="center">A passionate Computer Engineer from Palestine</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yazan-habash114&label=Profile%20views&color=0e75b6&style=flat" alt="yazan-habash114" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yazan-habash114" alt="yazan-habash114" /></a> </p>
 
@@ -48,3 +47,6 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yazan-habash114&show_icons=true&locale=en" alt="yazan-habash114" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yazan-habash114&" alt="yazan-habash114" /></p>
+
+## Views
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yazan-habash114&label=Profile%20views&color=0e75b6&style=flat" alt="yazan-habash114" /> </p>
